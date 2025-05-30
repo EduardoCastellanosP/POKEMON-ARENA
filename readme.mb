@@ -24,10 +24,7 @@ Una página web de arena de combates por turnos basada en el universo Pokémon. 
 
 1. **Clona el repositorio**:
 
-   ```bash
-   git clone https://github.com/AndresFForeroP/Pokemon-Arena.git
-   cd pokemon-battle-arena
-   ```
+
 
 2. **Abre el proyecto en tu navegador**:
    Solo abre el archivo `index.html` con cualquier navegador moderno.
